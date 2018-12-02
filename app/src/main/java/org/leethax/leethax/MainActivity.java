@@ -24,6 +24,7 @@ import java.util.Date;
 
 public class MainActivity extends AppCompatActivity {
     static final int REQUEST_IMAGE_CAPTURE = 1;
+
     String mCurrentPhotoPath;
 
     @Override
